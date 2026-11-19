@@ -1,0 +1,9 @@
+# LangChain 1.x: create_agent + LangGraph under the hood
+langchain>=1.0,<2.0
+langchain-openai>=1.0,<2.0
+
+# Environment variables (.env)
+python-dotenv>=1.0.1
+
+# Rich console output (main.py)
+rich>=13.7.0
